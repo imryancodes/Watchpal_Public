@@ -1,4 +1,4 @@
-# https://watchpal.ryancodes.xyz
+# https://watchpal.xyz
 ## A cool website you can use to find your new favorite movie or TV show!
 
 ### How-To:
