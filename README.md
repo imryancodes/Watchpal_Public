@@ -15,3 +15,7 @@ This is another repo I created for Watchpal to hide my TMDB API key. The origina
 Thanks,
 
 -Ryan
+
+#
+
+### © Ryan Kiapour 2026
